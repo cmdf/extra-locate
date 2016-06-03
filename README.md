@@ -31,8 +31,3 @@ Get or set Cursor location in Windows Console.
 :: set cursor to go back to previous line start
 > olocate o -1
 ```
-
-
-## license
-
-Do you have a Poké ball? That's enough!

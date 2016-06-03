@@ -1,12 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
-VisualStudioVersion = 14.0.23107.0
+VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cs-locate", "cs-locate\cs-locate.csproj", "{5FCE5F7C-EC7E-4FE5-BB26-CD1CABD2A2B9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "src", "src\src.csproj", "{5FCE5F7C-EC7E-4FE5-BB26-CD1CABD2A2B9}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{ECADD574-69D8-46F8-8F41-524711FCC915}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "0", "0", "{ECADD574-69D8-46F8-8F41-524711FCC915}"
 	ProjectSection(SolutionItems) = preProject
+		LICENSE = LICENSE
 		README.md = README.md
 	EndProjectSection
 EndProject
