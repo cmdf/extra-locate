@@ -6,7 +6,7 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("olocate")]
-[assembly: AssemblyDescription("Get or set Cursor position in Windows Console")]
+[assembly: AssemblyDescription("Get or set Cursor location in Windows Console")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Orez")]
 [assembly: AssemblyProduct("olocate")]
