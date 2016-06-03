@@ -1,4 +1,5 @@
-﻿using System;
+﻿// OLOCATE - Get or set Cursor location in Windows Console
+using System;
 
 namespace orez.locate {
 	class Program {
