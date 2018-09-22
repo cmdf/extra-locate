@@ -1,12 +1,11 @@
-# olocate
-
 Get or set Cursor location in Windows Console.
+> 1. Download [exe file](https://raw.githubusercontent.com/winp/extra-bel/master/ecd.cmd).
+> 2. Copy to `C:\Program_Files\Scripts`.
+> 3. Add `C:\Program_Files\Scripts` to `PATH` environment variable.
 
-
-## usage
 
 ```batch
-> olocate [[+|-]<x>] [[+|-]<y>]
+> elocate [[+|-]<x>] [[+|-]<y>]
 
 :: [] -> optional argument
 :: <> -> argument value
@@ -14,20 +13,20 @@ Get or set Cursor location in Windows Console.
 
 ```batch
 :: get current cursor location as "<x> <y>"
-> olocate
+> elocate
 
 :: set cursor location to start of line
-> olocate 0
+> elocate 0
 
 :: set cursor location to top-left corner
-> olocate 0 0
+> elocate 0 0
 
 :: set cursor location to x=10, y=20
-> olocate 10 20
+> elocate 10 20
 
 :: set cursor location to x=0, y=y+10
-> olocate 0 +10
+> elocate 0 +10
 
 :: set cursor to go back to previous line start
-> olocate o -1
+> elocate o -1
 ```
