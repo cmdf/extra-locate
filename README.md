@@ -1,5 +1,5 @@
 Get or set Cursor location in Windows Console.
-> 1. Download [exe file](https://github.com/winp/extra-locate/releases/download/1.0.0/elocate.exe).
+> 1. Download [exe file](https://github.com/cmdf/extra-locate/releases/download/1.0.0/elocate.exe).
 > 2. Copy to `C:\Program_Files\Scripts`.
 > 3. Add `C:\Program_Files\Scripts` to `PATH` environment variable.
 
@@ -32,4 +32,4 @@ Get or set Cursor location in Windows Console.
 ```
 
 
-[![Merferry](https://i.imgur.com/iliPFzH.jpg)](https://merferry.github.io)
+[![cmdf](https://i.imgur.com/iliPFzH.jpg)](https://cmdf.github.io)
