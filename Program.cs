@@ -1,7 +1,7 @@
-﻿// OLOCATE - Get or set Cursor location in Windows Console
+﻿// ELOCATE - Get or set Cursor location in Windows Console
 using System;
 
-namespace orez.locate {
+namespace App {
 	class Program {
 		static void Main(string[] args) {
 			// process input
